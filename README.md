@@ -1,6 +1,6 @@
-# [Portfolio](https://jakovgotovacborcic.github.io/Internship_Portfolio/)
 Data Science student with a foundation in psychology.  
 My background in psychology has given me the ability to pose insightful questions and articulate findings in an accessible manner. In my exploration of data science, I've gained the skills to tackle these questions using data analytics and machine learning. I am enthusiastic about leveraging this interdisciplinary skill set to contribute to innovative projects.
+[Check my portfolio!](https://jakovgotovacborcic.github.io/Internship_Portfolio/)  
 
 # Personal Information
 Email: jakov.gotovac@gmail.com  
