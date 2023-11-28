@@ -9,7 +9,7 @@ My background in psychology has given me the ability to pose insightful question
 10/2022 - 03/2023
 - recruiting schools for a research project
 - maintaining an active line of communication with school employees
-- coordinating data collection with the schools
+- coordinating data collection with the schools  
 
 ## Data Analyst
 ### [National Center For External Evaluation Of Education](https://www.ncvvo.hr/)  
