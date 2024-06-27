@@ -4,9 +4,17 @@ Phone: +385 98 249 266
 Address: Valschermkade 19, 1059 CD Amsterdam 
   
 I am a Data Science student with a foundation in psychology.  
-My background in psychology has given me the ability to pose insightful questions and articulate findings in an accessible manner. In my exploration of data science, I've gained the skills to tackle these questions using data analytics and machine learning. I am enthusiastic about leveraging this interdisciplinary skill set to contribute to innovative projects so please [check out my portfolio!](https://jakovgotovacborcic.github.io/Internship_Portfolio/)  
+My psychology background gives me the ability to think "experimentally" and clearly communicate my findings to a wide audience while my data science study has given me different machine learning tools and coding skills.  
+Please [check out my portfolio!](https://jakovgotovacborcic.github.io/Internship_Portfolio/)  
    
 # Work History
+
+## Data Science Intern
+### [Data IM]([https://www.idi.hr/en/home](https://www.dataim.nl/))  
+05/2024 - 08/2024  
+- creating a Shiny app for text data simulation leveraging Open AI API and class oriented programming in R
+- performing sentiment analysis on text data using Open AI's text embedding scores
+- conducting a study with the Open AI's embedding scores to test if it's possible to extract dimensions that encode sentiment
 
 ## Research Assistant
 ### [Institute For Social Research In Zagreb](https://www.idi.hr/en/home)
@@ -24,8 +32,8 @@ My background in psychology has given me the ability to pose insightful question
 
 # Skills
 - R
-- Microsoft Office
-- Python (Keras) asics  
+- Python
+- Microsoft Office  
 - Experimental Design and Statistics
 - Presentation Skills
   
