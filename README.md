@@ -10,7 +10,7 @@ Please [check out my portfolio!](https://jakovgotovacborcic.github.io/Internship
 # Work History
 
 ## Data Science Intern
-### [Data IM]([https://www.idi.hr/en/home](https://www.dataim.nl/))  
+### [Data IM](https://www.dataim.nl/)  
 05/2024 - 08/2024  
 - creating a Shiny app for text data simulation leveraging Open AI API and class oriented programming in R
 - performing sentiment analysis on text data using Open AI's text embedding scores
