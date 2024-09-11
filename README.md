@@ -1,7 +1,7 @@
 # Personal Info  
 Email: jakov.gotovac@gmail.com  
 Phone: +385 98 249 266  
-Address: Kees Brokmanstraat 262, 1095 MS Amsterdam 
+Address: Bijenički ogranak III. 11a; 10000 Zagreb
   
 I am a Data Science student with a foundation in psychology.  
 My psychology background gives me the ability to think "experimentally" and communicate my findings to a wide audience, while my data science study has given me different machine learning tools and coding skills.  
@@ -33,14 +33,14 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
 # Skills
 - R
 - Python
-- SQL (basics)  
+- SQL (basics)
 - Experimental Design and Statistics
 - Presentation Skills
   
 # Education   
 ### University of Amsterdam  
-Masters of Science: Behavioural Data Science
-Expected date of graduation: 31/8/2024
+[Masters of Science: Behavioural Data Science](https://www.uva.nl/shared-content/programmas/en/masters/psychology-behavioural-data-science/behavioural-data-science.html) (2024)
+
 ### University of Zagreb
 Master of Arts: Psychology (2023)  
 Bachelor of Arts: Psychology (2019)  
