@@ -9,6 +9,14 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
    
 # Work History
 
+## Freelance Data Scientist
+## Single-Handedly  
+10/2024 - now   
+- I have set up a sole proprietorship under the name Single-Handedly in my home country — Croatia
+- contining my work with [Data IM](https://jakovgotovacborcic.github.io/Internship_Portfolio/) and [The Orange Factory](https://www.theorangefactory.es/)
+- creating a Shiny dashboard that speeds up the process of recoding open-ended responses into topic-related categorical variables by providing 'smart' suggestions.
+
+  
 ## Data Science Intern  
 ## [Data IM](https://www.dataim.nl/)  
 05/2024 - 08/2024  
@@ -19,9 +27,8 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
 ## Research Assistant
 ## [Institute For Social Research In Zagreb](https://www.idi.hr/en/home)
 10/2022 - 03/2023
-- recruiting schools for a research project
-- maintaining an active line of communication with school employees
-- coordinating data collection with the schools  
+- recruiting schools for a research project & coordinating data collection
+- maintaining an active line of communication with school employees 
 
 ## Data Analyst
 ## [National Center For External Evaluation Of Education](https://www.ncvvo.hr/)  
@@ -31,11 +38,10 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
 - writing reports and scientific research
 
 # Skills
-- R
-- Python
-- SQL (basics)
-- Experimental Design and Statistics
-- Presentation Skills
+- R, Shiny, Python, SQL
+- Experimental Design
+- Statistics & Psychometrics
+- Presentation & Comunication Skills
   
 # Education   
 ### University of Amsterdam  
