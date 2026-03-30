@@ -11,10 +11,11 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
 
 ## Freelance Data Scientist
 ### Single-Handedly  
-10/2024 - now   
-- I have set up a sole proprietorship under the name Single-Handedly in my home country — Croatia
-- contining my work with [Data IM](https://jakovgotovacborcic.github.io/Internship_Portfolio/) and [The Orange Factory](https://www.theorangefactory.es/)
-- creating a Shiny dashboard that speeds up the process of recoding open-ended responses into topic-related categorical variables by providing 'smart' suggestions
+10/2024 - now
+- Set up a sole proprietorship in Croatia, continuing work with [Data IM](https://www.dataim.nl/) and [The Orange Factory](https://www.theorangefactory.es/)
+- Together with Data IM and The Orange Factory, building interactive R Shiny dashboards for survey data analysis and monitoring — clients include LKCA (Dutch cultural arts), Sportservice Veenendaal, Bugaboo (NPS/customer feedback) & KPMG (internal monitoring dashboard)
+- Integrating LLM-powered features into dashboards: natural language data querying, AI-assisted text recoding, and structured document extraction
+- Developing modular R package architectures
 
   
 ## Data Science Intern  
