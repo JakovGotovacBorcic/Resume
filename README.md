@@ -1,7 +1,7 @@
 # Personal Info  
 Email: jakov.gotovac@gmail.com  
 Phone: +385 98 249 266  
-Address: Ulica Hermana Bužana 36; 10000 Zagreb
+Address: Ulica Pavla Hatza 11; 10000 Zagreb
   
 I am a Data Scientist with a foundation in psychology.  
 My psychology background gives me the ability to think "experimentally" and communicate my findings to a wide audience, while my data science study has given me different machine learning tools and coding skills.  
