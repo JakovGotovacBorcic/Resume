@@ -13,7 +13,7 @@ Please [**check out my portfolio**](https://jakovgotovacborcic.github.io/Interns
 ### Single-Handedly  
 10/2024 - now
 - Set up a sole proprietorship in Croatia, continuing work with [Data IM](https://www.dataim.nl/) and [The Orange Factory](https://www.theorangefactory.es/)
-- Together with Data IM and The Orange Factory, building interactive R Shiny dashboards for survey data analysis and monitoring — clients include LKCA (Dutch cultural arts), Sportservice Veenendaal, Bugaboo (NPS/customer feedback) & KPMG (internal monitoring dashboard)
+- Building interactive R Shiny dashboards for survey data analysis and monitoring, together with Data IM and The Orange Factory for clients like LKCA (Dutch cultural arts), Sportservice Veenendaal, Bugaboo (NPS/customer feedback) & KPMG (internal monitoring dashboard)
 - Integrating LLM-powered features into dashboards: natural language data querying, AI-assisted text recoding, and structured document extraction
 - Developing modular R package architectures
 
